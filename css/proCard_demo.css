@@ -1,0 +1,9 @@
+/*Demo Style*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ECEFF1;
+}
